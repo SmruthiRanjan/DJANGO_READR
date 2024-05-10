@@ -1,5 +1,7 @@
 DJANGO READR 
 ------------------------------------------------
+CREATE A FOLDER AND THE EXTRACT BOTH ZIP FILE'S IN THE SAME FOLDER AND THEN OPEN IN VISUAL CODE AND FOLLOW THE STEPS: 
+------------------------------------------------
 TO RUN YOY HAVE TO CREATE ENVIRONMENTAL VARIABLE
 AND THEN ACTIVATE THE ENVIRONMENTAL VARIABLE
 ------------------------------------------------
